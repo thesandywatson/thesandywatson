@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @thesandywatson
+- 👀 I’m interested in learning
+- 🌱 I’m currently learning Git, GitHub, Python, Javascript, HTML, CSS, Bash, Vim, and more.
+- 💞️ I’m looking to collaborate on almost anything, if my low skill level can be of any use
+- 📫 How to me me: sandyscode@protonmail.com
+- 🐘 Socials: (a)sandywatson(a)mastodon.social
